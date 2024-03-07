@@ -19,4 +19,4 @@ for thread in threads:
 
 finish = time.perf_counter()
 
-print(f'Finished in {round(finish-start, 2)} second(s) ...')
+print(f'Finished in {round(finish-start, 2)} second(s) ,,,')
